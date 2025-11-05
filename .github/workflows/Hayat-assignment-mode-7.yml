@@ -1,4 +1,4 @@
-name: Next.js CI Pipeline
+name: Hayat-assignment-mode-7
 
 on:
   push:
